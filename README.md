@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/-shivansh-gupta/">LinkedIn</a> •
   <a href="mailto:shivanshgupta323@gmail.com">Email</a> •
   <a href="https://github.com/shivansh052k?tab=repositories">Projects</a> •
-  <a href="<YOUR_RESUME_LINK>">Resume</a>
+  <a href="https://drive.google.com/file/d/1vRoaeGEXG6x352IFljBEqiGVPmigVBsh/view?usp=sharing">Resume</a>
 </p>
 
 ---
