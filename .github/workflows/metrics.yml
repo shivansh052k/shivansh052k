@@ -9,11 +9,8 @@ permissions:
 
 jobs:
   metrics:
-    runs-on: [self-hosted, macOS]
+    runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
@@ -21,10 +18,11 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
           template: classic
+          filename: github-metrics.svg
 
-          # Write outputs inside the repo workspace (writable)
-          config_output: "./metrics_renders"
-          filename: "./metrics_renders/github-metrics.svg"
+          output_action: commit
+          committer_branch: main
+          committer_message: "chore: update github metrics"
 
           base: header, activity, community, repositories
           config_timezone: America/New_York
@@ -43,9 +41,3 @@ jobs:
 
           plugin_stars: yes
           plugin_followup: yes
-
-      - name: Commit metrics
-        run: |
-          git add metrics_renders/github-metrics.svg
-          git commit -m "chore: update github metrics" || echo "No changes to commit"
-          git push
