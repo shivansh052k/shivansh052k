@@ -8,12 +8,6 @@
   <a href="<YOUR_RESUME_LINK>">Resume</a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=<YOUR_GITHUB_USERNAME>&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/<YOUR_GITHUB_USERNAME>?label=Followers&style=flat" alt="followers" />
-  <img src="https://img.shields.io/github/stars/<YOUR_GITHUB_USERNAME>?label=Stars&style=flat" alt="stars" />
-</p>
-
 ---
 
 ## 🔭 What I work on
