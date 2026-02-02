@@ -65,9 +65,28 @@
 </div>
 
 <br />
+<!--
+## 🎖 Badges
 
+<details>
+<summary><b> GCP VertexAI Badges </b></summary>
+<div style='display:flex; align-items:center; gap: 5px;' align='center'>
+<img src="./assets/postman.png" width="85px" height="85px" />
+  <img src="./assets/1.png" width="85px" height="85px" />
+  <img src="./assets/2.png" width="85px" height="85px" />
+  <img src="./assets/3.png" width="85px" height="85px" />
+  <img src="./assets/4.png" width="85px" height="85px" />
+  <img src="./assets/5.png" width="85px" height="85px" />
+  <img src="./assets/6.png" width="85px" height="85px" />
+  <img src="./assets/7.png" width="85px" height="85px" />
+</div>
+<br>
+</details>
 
-<summary><b>🎖 Extra</b></summary>
+<hr>
+-->
+
+## 🎖 Extra
 <br />
 <ul>
   <li>Open to full-time roles:Software Engineer, AI Engineer, ML Engineer, Applied ML Engineer, GenAI Engineer</li>
