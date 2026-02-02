@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shivansh Gupta 👋</h1>
-<h3 align="center">AI/ML Engineer building LLM systems (RAG, evals, agents) and scalable low-latency deployment 🚀</h3>
+<h3 align="center">AI/ML Engineer building Advance ML, NLP, and LLM systems (RAG, evals, agents) with enterprie scalable low-latency deployment 🚀</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/-shivansh-gupta/">LinkedIn</a> •
@@ -56,8 +56,7 @@
 ---
 
 ## 🤝 Open to
-- Full-time roles: AI Engineer, ML Engineer, Applied ML, LLM Systems Engineer
-- Collaborations: RAG systems, agent tooling, eval frameworks, retrieval and ranking
+- Full-time roles: Software Engineer, AI Engineer, ML Engineer, Applied ML Engineer, GenAI Engineer
 
 ---
 
