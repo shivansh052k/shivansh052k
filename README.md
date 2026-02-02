@@ -112,5 +112,5 @@ Pin these for the best recruiter first impression:
 ---
 
 ## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/<YOUR_LINKEDIN>/
-- Email: <YOUR_EMAIL>
+- LinkedIn: https://www.linkedin.com/in/-shivansh-gupta/
+- Email: shivanshgupta323@gmail.com
