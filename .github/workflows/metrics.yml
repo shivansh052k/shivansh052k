@@ -9,7 +9,7 @@ permissions:
 
 jobs:
   metrics:
-    runs-on: ubuntu-22.04
+    runs-on: [self-hosted, macOS]
     steps:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
