@@ -17,12 +17,12 @@
 
 ---
 
-## 🏆 Highlights (real system impact)
-- 📈 Improved retrieval relevance by **+23% nDCG@10 vs BM25 baseline** on **400** expert-curated queries :contentReference[oaicite:0]{index=0}  
-- ⚡ Reduced end-to-end p95 latency **48% (27s → 14s)** while sustaining **100+ req/s** on **H100** using vLLM optimizations :contentReference[oaicite:1]{index=1}  
-- 🔌 Served a **gRPC Retrieval API** at **150+ req/s** with **sub-250ms p95** latency :contentReference[oaicite:2]{index=2}  
-- 📚 Built real-time ingestion for **2M+ docs (~800GB)** with **<30s** index refresh latency :contentReference[oaicite:3]{index=3}  
-- 🤖 Distilled GPT-4 tool-use into a quantized Llama agent, reaching **95% of GPT-4 Turbo Tool-Use Pass@1** on **5,000+ traces** :contentReference[oaicite:4]{index=4}  
+## 🏆 Highlights
+- 📈 Improved retrieval relevance by **+23% nDCG@10 vs BM25 baseline** on **400** expert-curated queries  
+- ⚡ Reduced end-to-end p95 latency **48% (27s → 14s)** while sustaining **100+ req/s** on **H100** using vLLM optimizations  
+- 🔌 Served a **gRPC Retrieval API** at **150+ req/s** with **sub-250ms p95** latency  
+- 📚 Built real-time ingestion for **2M+ docs (~800GB)** with **<30s** index refresh latency  
+- 🤖 Distilled GPT-4 tool-use into a quantized Llama agent, reaching **95% of GPT-4 Turbo Tool-Use Pass@1** on **5,000+ traces**  
 
 ---
 
@@ -50,20 +50,20 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shivansh052k&show_icons=true&rank_icon=github&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh052k&layout=compact" />
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shivansh052k&show_icons=true&include_all_commits=true&cache_seconds=86400&v=1" />
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh052k&layout=compact&langs_count=8&cache_seconds=86400&v=1" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shivansh052k" />
+  <img alt="Streak stats" src="https://streak-stats.demolab.com?user=shivansh052k&v=1" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivansh052k&row=1&margin-w=10&no-frame=true" />
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=shivansh052k&row=1&margin-w=10&no-frame=true&v=1" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivansh052k" />
+  <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shivansh052k&v=1" />
 </p>
 
 ---
