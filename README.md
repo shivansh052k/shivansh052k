@@ -32,28 +32,6 @@
 
 ---
 
-## 🚀 Featured Projects
-### 🩺 Init-Diagnose | Ontology-safe NL2Graph + GraphRAG triage
-**Tech**: Neo4j, GraphRAG, NL2Graph, Triton, XGBoost, SageMaker, AWQ  
-- ✅ **99.2%** query execution, **92%** functional correctness on a 200-query gold set :contentReference[oaicite:5]{index=5}  
-- ⚡ **sub-70ms** retrieval, load tested for **20 concurrent users** :contentReference[oaicite:6]{index=6}  
-- 📊 AUROC **0.67 → 0.86**, **280ms p95** at 20 QPS, validated with clinician shadow study :contentReference[oaicite:7]{index=7}  
-🔗 Repo: <REPO_LINK_INIT_DIAGNOSE>
-
-### 🍬 GlucoChat | GraphRAG healthcare assistant with safety guardrails
-**Tech**: Llama-3, GraphRAG, DSPy, FAISS, SNOMED CT, Whisper  
-- 📈 Multi-hop reasoning **54% → 84%** on a 1,500-query adversarial golden set :contentReference[oaicite:8]{index=8}  
-- 🛡️ **94% citation precision** with citation-required answers and faithfulness scoring :contentReference[oaicite:9]{index=9}  
-🔗 Repo: <REPO_LINK_GLUCOCHAT>
-
-### 🤝 NegotiableAI | RL-driven negotiation agent
-**Tech**: LangGraph, DQN/PPO/RLHF, Ray, vLLM, Kubernetes  
-- 🎯 Deal success **42% → 61%** across a 5,000-episode league  
-- ✅ **60% lift** in constraint satisfaction with policy guardrails :contentReference[oaicite:10]{index=10}  
-🔗 Repo: <REPO_LINK_NEGOTIABLEAI>
-
----
-
 ## 🧰 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
