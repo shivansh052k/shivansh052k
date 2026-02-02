@@ -2,9 +2,9 @@
 <h3 align="center">AI/ML Engineer building LLM systems (RAG, evals, agents) and scalable low-latency deployment 🚀</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/<YOUR_LINKEDIN>/">LinkedIn</a> •
-  <a href="mailto:<YOUR_EMAIL>">Email</a> •
-  <a href="https://github.com/<YOUR_GITHUB_USERNAME>?tab=repositories">Projects</a> •
+  <a href="https://www.linkedin.com/in/-shivansh-gupta/">LinkedIn</a> •
+  <a href="mailto:shivanshgupta323@gmail.com">Email</a> •
+  <a href="https://github.com/shivansh052k?tab=repositories">Projects</a> •
   <a href="<YOUR_RESUME_LINK>">Resume</a>
 </p>
 
