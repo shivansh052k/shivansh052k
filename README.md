@@ -64,13 +64,14 @@
   <img src="https://github-trophies.vercel.app/?username=shivansh052k&theme=dracula&no-frame=false&no-bg=false&margin-w=4" />
 </div>
 
-<details>
-  <summary><b>🎖 Extra</b></summary>
-  <br />
-  <ul>
-    <li>Open to full-time roles:Software Engineer, AI Engineer, ML Engineer, Applied ML Engineer, GenAI Engineer</li>
-  </ul>
-</details>
+<br />
+
+
+<summary><b>🎖 Extra</b></summary>
+<br />
+<ul>
+  <li>Open to full-time roles:Software Engineer, AI Engineer, ML Engineer, Applied ML Engineer, GenAI Engineer</li>
+</ul>
 
 <br />
 
