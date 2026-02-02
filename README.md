@@ -1,7 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 
-<br />
-
 <h1 align="center">Hi, I'm Shivansh Gupta 👋</h1>
 <h3 align="center">AI/ML Engineer building LLM systems (RAG, evals, agents) and scalable low-latency deployment 🚀</h3>
 
