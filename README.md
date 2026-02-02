@@ -1,7 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 
-<img src="https://i.pinimg.com/originals/ac/63/f8/ac63f8fec3b7a789417e9443bf895e94.gif" width="100%" />
-
 <br />
 
 <h1 align="center">Hi, I'm Shivansh Gupta 👋</h1>
