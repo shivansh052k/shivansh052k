@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 
 <h1 align="center">Hi, I'm Shivansh Gupta 👋</h1>
-<h3 align="center">AI/ML Engineer building LLM systems (RAG, evals, agents) and scalable low-latency deployment 🚀</h3>
+<h3 align="center">AI/ML Engineer building Advance ML, NLP, and LLM systems (RAG, evals, agents) with enterprie scalable low-latency deployment 🚀</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/-shivansh-gupta/" target="_blank">
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Projects-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <!-- Replace with your actual resume link -->
-  <a href="YOUR_RESUME_LINK_HERE" target="_blank">
+  <a href="[YOUR_RESUME_LINK_HERE](https://drive.google.com/file/d/1vRoaeGEXG6x352IFljBEqiGVPmigVBsh/view?usp=sharing)" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4B6BFB?style=for-the-badge&logo=readme&logoColor=white"/>
   </a>
 </p>
@@ -22,9 +22,9 @@
 <br />
 
 ## 🔭 What I work on
-- 🧠 **LLM systems**: RAG pipelines, GraphRAG, hybrid retrieval, reranking, tool-using agents  
-- 📏 **Evals and reliability**: automated scoring, guardrails, faithfulness and citation checks  
-- ⚡ **Performance**: vLLM serving, quantization, GPU throughput, p95 latency optimization  
+- 🧠 **LLM systems**: RAG pipelines, GraphRAG, hybrid retrieval, reranking, intent routing, tool-using agents  
+- 📏 **Evals and reliability**: automated scoring, CI canary gates, PII guardrails, faithfulness and citation checks  
+- ⚡ **Performance**: vLLM serving, KV-cache optimization, quantization, GPU throughput, p95 latency optimization  
 
 <br />
 
@@ -64,27 +64,11 @@
   <img src="https://github-trophies.vercel.app/?username=shivansh052k&theme=dracula&no-frame=false&no-bg=false&margin-w=4" />
 </div>
 
-<br />
-
-## 🚀 Featured Projects
-<div align="center">
-
-| Project | What it is | Link |
-|---|---|---|
-| Init-Diagnose | Ontology-safe NL2Graph + GraphRAG triage system | YOUR_REPO_LINK |
-| GlucoChat | GraphRAG healthcare assistant with safety guardrails | YOUR_REPO_LINK |
-| NegotiableAI | RL-driven negotiation agent | YOUR_REPO_LINK |
-
-</div>
-
-<br />
-
 <details>
   <summary><b>🎖 Extra</b></summary>
   <br />
   <ul>
-    <li>Open to full-time roles: AI Engineer, ML Engineer, LLM Systems Engineer</li>
-    <li>Collabs: RAG, agent tooling, eval frameworks, retrieval and ranking</li>
+    <li>Open to full-time roles:Software Engineer, AI Engineer, ML Engineer, Applied ML Engineer, GenAI Engineer</li>
   </ul>
 </details>
 
