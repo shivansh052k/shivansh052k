@@ -50,20 +50,20 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=<YOUR_GITHUB_USERNAME>&show_icons=true&rank_icon=github&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_GITHUB_USERNAME>&layout=compact" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shivansh052k&show_icons=true&rank_icon=github&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh052k&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=<YOUR_GITHUB_USERNAME>" />
+  <img src="https://streak-stats.demolab.com?user=shivansh052k" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=<YOUR_GITHUB_USERNAME>&row=1&margin-w=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shivansh052k&row=1&margin-w=10&no-frame=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=<YOUR_GITHUB_USERNAME>" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivansh052k" />
 </p>
 
 ---
