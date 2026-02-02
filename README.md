@@ -50,20 +50,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shivansh052k&show_icons=true&include_all_commits=true&cache_seconds=86400&v=1" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh052k&layout=compact&langs_count=8&cache_seconds=86400&v=1" />
-</p>
-
-<p align="center">
-  <img alt="Streak stats" src="https://streak-stats.demolab.com?user=shivansh052k&v=1" />
-</p>
-
-<p align="center">
-  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=shivansh052k&row=1&margin-w=10&no-frame=true&v=1" />
-</p>
-
-<p align="center">
-  <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shivansh052k&v=1" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 ---
