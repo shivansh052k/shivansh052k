@@ -68,15 +68,6 @@
 
 ---
 
-## 📌 Pinned Repos (recommended)
-Pin these for the best recruiter first impression:
-- Init-Diagnose
-- GlucoChat
-- NegotiableAI
-- One “systems” repo: retrieval API, eval harness, or deployment templates
-
----
-
 ## 🤝 Open to
 - Full-time roles: AI Engineer, ML Engineer, Applied ML, LLM Systems Engineer
 - Collaborations: RAG systems, agent tooling, eval frameworks, retrieval and ranking
