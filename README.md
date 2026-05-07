@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 
 <h1 align="center">Hi, I'm Shivansh Gupta 👋</h1>
-<h3 align="center">AI/ML Engineer building Advance ML, NLP, and LLM systems (RAG, evals, agents) with enterprie scalable low-latency deployment 🚀</h3>
+<h3 align="center">AI/ML Engineer building Advance ML, NLP, LLMs, Retrieval, Agents & Recommender Systems with enterprie scalable low-latency deployment 🚀</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/-shivansh-gupta/" target="_blank">
