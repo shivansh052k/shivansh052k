@@ -14,9 +14,9 @@
     <img src="https://img.shields.io/badge/Projects-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <!-- Replace with your actual resume link -->
-  <a href="https://drive.google.com/file/d/1EJ-1ceAYHembfXr0QPvHo4_zolX96Zi8/view?usp=sharing" target="_blank">
+  <!-- <a href="https://drive.google.com/file/d/1EJ-1ceAYHembfXr0QPvHo4_zolX96Zi8/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4B6BFB?style=for-the-badge&logo=readme&logoColor=white"/>
-  </a>
+  </a> -->
 </p>
 
 
